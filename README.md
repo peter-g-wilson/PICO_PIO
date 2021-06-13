@@ -12,9 +12,9 @@ Then my youngest son inherited Fine Offset WH1080 weather station from his grand
 <br>
 **Overview**
 <br>
-![overview](../../images/overview.PNG)
+![overview](https://github.com/peter-g-wilson/PICO_PIO/blob/main/images/overview.png)
 <br>
-**Some detail**
+**Some more detail**
 <br>
-![PICO_PIO_OOK_Manchester_and_PWM.pdf](../../pdf/PICO_PIO_OOK_Manchester_and_PWM.pdf)
+![PICO_PIO_OOK_Manchester_and_PWM.pdf](https://github.com/peter-g-wilson/PICO_PIO/blob/main/pdf/PICO_PIO_OOK_Manchester_and_PWM.pdf)
 <br>
