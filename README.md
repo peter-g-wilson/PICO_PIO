@@ -1,5 +1,15 @@
 ## PICO_PIO
 RF input decoding using PICO PIO
+
+#### **The work on the F007 has now moved to another repository -**  https://github.com/peter-g-wilson/yaesa
+
+The changes going to the **yaesa** repository are
+* even more commonality for message and bit queues and also the bit-stream decoding
+* added DS18B20 and one-wire
+* added BME280
+* some name changing
+* moved most documentation to the readme and code 
+
 ### Why do it?
 I had a fridge that kept freezing vegetables. It was interesting to see how bad the overshoot and undershoot of the controller was.
 <br>
